@@ -1,0 +1,7 @@
+.bg {
+    background-image: url(./Assets/-for-desktop-wallpaper.jpg);
+    height: 800px;
+    width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,34 @@
+.card {
+    height: 100vh;
+    background-image: url(./Assets/-for-desktop-wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.tourism {
+    height: 30vh;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-width: 10px;
+    background-color: aqua;
+}
+.head {
+    font-size: 30px;
+    margin-top: 40px;
+}
+.para {
+    font-style: italic;
+    font-size: 20px;
+    margin: 10px;
+}
+.btn {
+    font-size: 15px;
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: cadetblue;
+}     
+
